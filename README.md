@@ -8,3 +8,4 @@
 ### SSD : TINTEL SSDSCKGF256A5 SATA 256GB 
 ### Wireless : Intel 8260 AC + 蓝牙4.1
 
+系统安装成功之后将HeliPort加入用户与群组-登录项，开机自动运行HeliPort，然后再次开机就可以使用wu'xian'wa无线网卡了！
