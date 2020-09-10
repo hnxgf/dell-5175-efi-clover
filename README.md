@@ -10,4 +10,4 @@
 
 系统安装成功之后将HeliPort加入用户与群组-登录项，开机自动运行HeliPort，然后再次开机就可以使用无线网卡了！
 
-文件来自：http://de.xiugan.com:10080/hnxgf/dell-5175-efi-clover.git
+文件来自：http://de.xiugan.com:10080/hnxgf/dell-5175-efi-clover
