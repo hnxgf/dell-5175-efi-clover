@@ -194,6 +194,8 @@
 		<array>
 			<string>Preboot</string>
 		</array>
+                <key>Language</key>
+		<string>zh-Hans:252</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
