@@ -10,6 +10,11 @@
 
 系统安装成功之后将HeliPort加入用户与群组-登录项，开机自动运行HeliPort，然后再次开机就可以使用无线网卡了！
 
-声卡注入id28
+声卡注入id26
 
-文件来自：http://de.xiugan.com:10080/hnxgf/dell-5175-efi-clover
+文件来自：http://gitea.aisoft.cf/hnxgf/dell-5175-efi-clover
+
+Big Sur
+![avatar](https://raw.githubusercontent.com/hnxgf/dell-5175-efi-clover/d400d4ad10d2f11fe172f8f9e0f981e561294a43/Big%20Sur.png)
+Catalina
+![avatar](https://raw.githubusercontent.com/hnxgf/dell-5175-efi-clover/master/Catalina.png)
