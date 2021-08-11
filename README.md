@@ -1,5 +1,5 @@
 # Dell Latitude 5175 黑苹果clover引导
-# 本Clover配置已放弃使用，且不匹配Catalina和Big Sur，现改用Opencore，已匹配Catalina和Big Sur
+# 本Clover配置已放弃使用，且不匹配Catalina和Big Sur，现改用Opencore，已匹配Monterey 、Catalina和Big Sur
 ## 配置
 ### CPU : Intel Core m5-6Y57(1.1GHz/L3 4M)
 ### Graphics : Intel® HD Graphics 515 
